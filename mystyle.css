@@ -1,0 +1,125 @@
+body {
+background-color: darkgrey;
+margin:0;
+}
+.logo {
+    float:left;
+    display:inline-block;
+    vertical-align: left;
+    width:120px;
+    height:130px;
+}
+
+div[class*="d"]{
+  width: 30px;
+  height: 20px;
+  background-color: darkgrey;
+  margin: 6px 0;
+}
+
+.topnav a input[class="searchbar"]{
+  float:right;
+  margin-left:15px;
+  margin-top:27px;
+  width:200px;
+  height:30px;
+}
+.image {
+  float:left;
+  width:300px;
+  height:300px;
+  margin-left: 800px
+  margin-top:15px;
+  padding-bottom: 100px;
+  padding:25px;
+
+}
+.topnav a[href*="#"] {
+  float: left;
+  display: block;
+  color: #1E90FF;
+  text-align: center;
+  padding: 14px 5px;
+  width:90px;
+  font-size: 21px;
+  margin-top:20px;
+  margin-left:30px;
+}
+h2 {
+    background-color: #555;
+    color: #FFF;
+    letter-spacing: 1px;
+    margin: 25px 1px;
+    padding: 1px;
+}
+.SuggestedProducts{
+   text-align: center;
+   margin-top: 80px;
+
+}
+.uschdmi{
+    width:200px;
+    height:200px;
+    display: block;
+    margin-left: 30px;
+}.uscport{
+    width:200px;
+    height:190px;
+    display: block;
+    margin-left: 500px;
+}.hdmislip{
+    width:200px;
+    height:190px;
+    display: block;
+    margin-left: 900px;
+}
+
+.buttonforbuy{
+  cursor:pointer;
+  color:#000000;
+  text-align: center;
+  border: none;
+  margin: 10px 700px;
+  background-color: #87CEEB;
+  font-size: 16px;
+  width: 70px;
+  height:40px
+}
+.buttonforSize1{
+  cursor:pointer;
+  color:#000000;
+  border: none;
+  margin: 3px 315px;
+  background-color: #DAA520;
+  font-size: 16px;
+  width: 70px;
+  height:40px
+}
+.buttonforSize2{
+  cursor:pointer;
+  color:#000000;
+  border: none;
+  margin: 3px 315px;
+  background-color: #DAA520;
+  font-size: 16px;
+  width: 70px;
+  height:40px
+}.buttonforSize3{
+  cursor:pointer;
+  color:#000000;
+  border: none;
+  margin: 3px 315px;
+  background-color: #DAA520;
+  font-size: 16px;
+  width: 70px;
+  height:40px
+}.buttonforSize4{
+  cursor:pointer;
+  color:#000000;
+  border: none;
+  margin: 3px 315px;
+  background-color: #DAA520;
+  font-size: 16px;
+  width: 70px;
+  height:40px
+}
